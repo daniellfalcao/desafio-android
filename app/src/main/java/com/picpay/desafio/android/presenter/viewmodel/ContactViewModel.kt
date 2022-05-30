@@ -2,7 +2,7 @@ package com.picpay.desafio.android.presenter.viewmodel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.picpay.desafio.android.domain.repository.ContactRepository
+import com.picpay.desafio.android.domain.contact.repository.ContactRepository
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.MutableStateFlow

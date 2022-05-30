@@ -1,6 +1,6 @@
 package com.picpay.desafio.android.presenter.viewmodel
 
-import com.picpay.desafio.android.domain.model.Contact
+import com.picpay.desafio.android.domain.contact.model.Contact
 import kotlinx.coroutines.flow.MutableStateFlow
 
 sealed class ContactState {

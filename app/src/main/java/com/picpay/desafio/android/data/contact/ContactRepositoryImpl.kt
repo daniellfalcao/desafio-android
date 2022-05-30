@@ -1,8 +1,8 @@
 package com.picpay.desafio.android.data.contact
 
 import com.picpay.desafio.android.data.contact.model.toContact
-import com.picpay.desafio.android.domain.model.Contact
-import com.picpay.desafio.android.domain.repository.ContactRepository
+import com.picpay.desafio.android.domain.contact.model.Contact
+import com.picpay.desafio.android.domain.contact.repository.ContactRepository
 
 class ContactRepositoryImpl(
     private val remoteRepository: ContactRemoteDataSource

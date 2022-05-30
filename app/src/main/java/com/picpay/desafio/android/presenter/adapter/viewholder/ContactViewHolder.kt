@@ -4,7 +4,7 @@ import android.view.View
 import androidx.recyclerview.widget.RecyclerView
 import com.picpay.desafio.android.R
 import com.picpay.desafio.android.databinding.ItemContactBinding
-import com.picpay.desafio.android.domain.model.Contact
+import com.picpay.desafio.android.domain.contact.model.Contact
 import com.squareup.picasso.Picasso
 import jp.wasabeef.picasso.transformations.CropCircleTransformation
 

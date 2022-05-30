@@ -6,7 +6,7 @@ import com.picpay.desafio.android.data._config.network.ClientFactory
 import com.picpay.desafio.android.data.contact.ContactAPI
 import com.picpay.desafio.android.data.contact.ContactRemoteDataSource
 import com.picpay.desafio.android.data.contact.ContactRepositoryImpl
-import com.picpay.desafio.android.domain.repository.ContactRepository
+import com.picpay.desafio.android.domain.contact.repository.ContactRepository
 import okhttp3.Cache
 import org.koin.dsl.module
 import retrofit2.Retrofit

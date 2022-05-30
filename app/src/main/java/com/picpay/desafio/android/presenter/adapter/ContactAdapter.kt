@@ -4,7 +4,7 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.ListAdapter
 import com.picpay.desafio.android.R
-import com.picpay.desafio.android.domain.model.Contact
+import com.picpay.desafio.android.domain.contact.model.Contact
 import com.picpay.desafio.android.presenter.adapter.viewholder.ContactViewHolder
 
 class ContactAdapter : ListAdapter<Contact, ContactViewHolder>(Contact.diffCallback) {

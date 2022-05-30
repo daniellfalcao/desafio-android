@@ -1,7 +1,7 @@
 package com.picpay.desafio.android.data.contact.model
 
 import com.google.gson.annotations.SerializedName
-import com.picpay.desafio.android.domain.model.Contact
+import com.picpay.desafio.android.domain.contact.model.Contact
 
 data class ContactDTO(
     @SerializedName("id") val id: Int,

@@ -6,7 +6,7 @@ import com.google.gson.reflect.TypeToken
 import com.picpay.desafio.android._config.DataTest
 import com.picpay.desafio.android._config.readFile
 import com.picpay.desafio.android.data.contact.model.ContactDTO
-import com.picpay.desafio.android.domain.repository.ContactRepository
+import com.picpay.desafio.android.domain.contact.repository.ContactRepository
 import kotlinx.coroutines.runBlocking
 import org.junit.Assert
 import org.junit.Test

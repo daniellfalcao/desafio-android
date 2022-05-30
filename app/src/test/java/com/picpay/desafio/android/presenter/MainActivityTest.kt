@@ -15,7 +15,7 @@ import com.picpay.desafio.android._config.RobolectricApplication
 import com.picpay.desafio.android._config.readFile
 import com.picpay.desafio.android.data.contact.model.ContactDTO
 import com.picpay.desafio.android.data.contact.model.toContact
-import com.picpay.desafio.android.domain.repository.ContactRepository
+import com.picpay.desafio.android.domain.contact.repository.ContactRepository
 import com.picpay.desafio.android.presenter.viewmodel.ContactState
 import com.picpay.desafio.android.presenter.viewmodel.ContactViewModel
 import org.junit.Assert

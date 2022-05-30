@@ -1,4 +1,4 @@
-package com.picpay.desafio.android.domain.model
+package com.picpay.desafio.android.domain.contact.model
 
 import android.os.Parcelable
 import androidx.recyclerview.widget.DiffUtil
